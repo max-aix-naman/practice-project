@@ -1,0 +1,34 @@
+.todo-container {
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+
+.search-container {
+  margin-bottom: 20px;
+}
+
+.search-input {
+  width: 200px;
+  padding: 8px;
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.todo-container {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.todo-id {
+  font-weight: bold;
+  color: #333;
+}
+
+.todo-title {
+  color: #555;
+}
